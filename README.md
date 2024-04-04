@@ -1,5 +1,5 @@
 # glovedivers
-Arduino Uno interface for Helldivers and Power Glove
+Arduino Leonardo interface for the Powere Glove, configured for Helldivers 2
 
 Early stage project.  Likely to contain errors or inaccuracies!
 
