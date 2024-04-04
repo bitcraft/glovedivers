@@ -3,7 +3,10 @@ Arduino Uno interface for Helldivers and Power Glove
 
 Early stage project.  Likely to contain errors or inaccuracies!
 
-FOR DEMOCRATIC USE ONLY
+Video of use:
+https://www.youtube.com/watch?v=1AuZDYSRizM
+
+**FOR DEMOCRATIC USE ONLY**
 
 Could not have been made without the very useful information from other people found here:
 
